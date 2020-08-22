@@ -1,0 +1,10 @@
+pip install numpy
+pip install scipy
+pip install matplotlib
+pip install Keras
+pip install torch torchvision
+pip install luminoth //after TensorFlow
+pip install Pillow
+pip install requests
+-----
+https://www.tensorflow.org/install/pip
