@@ -6,5 +6,10 @@ pip install torch torchvision
 pip install luminoth //after TensorFlow
 pip install Pillow
 pip install requests
+pip install Theano
+pip install arrow
+pip install Delorean
+pip install nltk
+pip install mahotas
 -----
 https://www.tensorflow.org/install/pip
