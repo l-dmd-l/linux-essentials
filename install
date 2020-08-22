@@ -38,3 +38,6 @@ Spotify:
 
 GIMP:
     snap install gimp
+
+Dconf Tools:
+    sudo apt-get install dconf-tools
