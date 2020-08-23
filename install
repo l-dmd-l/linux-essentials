@@ -19,8 +19,6 @@ Python:
     sudo apt-get install python3.8
     python3
 
-Gitkraken:
-    snap install gitkraken --classic
 Git:
     sudo apt-get install git
     git config --global user.name "Duc Dao"
@@ -38,6 +36,3 @@ Spotify:
 
 GIMP:
     snap install gimp
-
-Dconf Tools:
-    sudo apt-get install dconf-tools
