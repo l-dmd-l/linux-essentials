@@ -5,7 +5,6 @@ pip3 install scipy
 pip3 install matplotlib
 pip3 install Keras
 pip3 install torch torchvision
-pip3 install luminoth //after TensorFlow
 pip3 install Pillow
 pip3 install requests
 pip3 install Theano
@@ -14,4 +13,12 @@ pip3 install Delorean
 pip3 install nltk
 pip3 install mahotas
 -----
-https://www.tensorflow.org/install/pip
+TensorFlow: https://www.tensorflow.org/install/pip
+  python3 -m venv --system-site-packages ./venv
+  source ./venv/bin/activate
+  pip install --upgrade pip
+  pip install --upgrade tensorflow
+  python -c "import tensorflow as tf;print(tf.reduce_sum(tf.random.normal([1000, 1000])))" //verify installation
+  deactivate  # don't exit until you're done using TensorFlow
+  
+pip3 install luminoth
