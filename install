@@ -21,8 +21,8 @@ Python:
 
 Git:
     sudo apt-get install git
-    git config --global user.name "Duc Dao"
-    git config --global user.email "duc.dao.431@gmail.com"
+    git config --global user.name "l-dmd-l"
+    git config --global user.email "david486712@gmail.com"
     ---
     sudo add-apt-repository ppa:git-core/ppa
     sudo apt update
